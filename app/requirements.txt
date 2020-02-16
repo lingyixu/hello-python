@@ -1,1 +1,8 @@
 Flask
+time
+sys
+os
+numpy
+openslide
+google
+glob
